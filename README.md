@@ -32,4 +32,3 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ## Kontakt
  
 - **GitHub:** [github.com/Ivo-Murel](https://github.com/Ivo-Murel)
-- **Email:** imurel@gmail.com
