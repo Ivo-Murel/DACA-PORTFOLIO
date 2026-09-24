@@ -13,6 +13,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
 ### Week 0: Onboarding
 - GitHub seadistamine ✅
 - Supabase seadistamine ✅
+- Notebook LM seadistamine ✅
 - **Minu panus meeskonnatöös:** Seadistasin meeskonna repositooriumi ja osalesin Team Charteri loomises.✅
 * **Meeskonna ühine töö:** [TOODE repo - UrbanStyle Tootemeeskond](https://github.com/Ivo-Murel/TOODE) ✅
  
