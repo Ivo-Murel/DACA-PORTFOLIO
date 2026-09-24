@@ -6,7 +6,7 @@
  
 ## Kirjeldus
  
-See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
+See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. Olen müügi ja turunduse taustaga, liitusin DACA programmiga, sest IT maailm ja sellega seonduv on hobi korras juba aastaid huvi pakkunud ning tundsin, andmete analüüs  võiks olla midagi sellist, mis pakub huvi ja ehk on tulevikus sellest ka kasu tööalaselt. 
  
 ## Projektid
  
