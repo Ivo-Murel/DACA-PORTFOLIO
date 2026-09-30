@@ -17,5 +17,5 @@ Team
 - `week1_data_landscape.md' -- viide meeskonnatöö kaustale ja esitlus
 
 ## Meeskonna töö
-- [Vaata meeskonnatööd siit](https://github.com/Ivo-Murel/TOODE/tree/main/week-1)
+- [Vaata meeskonnatööd siit](https://github.com/Ivo-Murel/TOODE/tree/main/Week-1%20)
 
