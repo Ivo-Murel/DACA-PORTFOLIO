@@ -1,7 +1,7 @@
 # Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Uurisin [tabeli nimi] tabelit SQL päringutega
+- Uurisin Product tabelit SQL päringutega
 - Leidsin [peamine leid]
 - Osalesin meeskonna andmemaastiku koostamisel
 
