@@ -3,11 +3,11 @@
 ## Mida ma tegin
 - Uurisin Product tabelit SQL päringutega
 - Leidsin [peamine leid]
-- Osalesin meeskonna andmemaastiku koostamisel
+- Õppisin SELECT, WHERE, ORDER BY, DISTINCT ja COUNT kasutamist.
 
 ## Peamised õppetunnid
-- [Õppetund 1]
-- [Õppetund 2]
+- Süvene koodi ja mida tahetakse
+- Kirjuta koodile juurde kommentaarid, hiljem on lihtsam aru saada, mida see teeb või mida ise tegin
 
 ## Failid
 - `week1_exploration.sql` -- minu SQL päringud
