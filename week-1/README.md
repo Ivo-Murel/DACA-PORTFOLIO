@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Uurisin Product tabelit SQL päringutega
-- Leidsin [peamine leid]
+- Leidsin mitu toodet on sortimendis, mitmesse kategooriasse need jagunevad ja millise kategooria all on kõige rohkem kapitali kinni. 
 - Õppisin SELECT, WHERE, ORDER BY, DISTINCT ja COUNT kasutamist.
 
 ## Peamised õppetunnid
@@ -10,9 +10,12 @@
 - Kirjuta koodile juurde kommentaarid, hiljem on lihtsam aru saada, mida see teeb või mida ise tegin
 
 ## Failid
+Individual
 - `week1_exploration.sql` -- minu SQL päringud
 - `week1_results_screenshot.png` -- tulemuste pilt
+Team
+- `week1_data_landscape.md' -- viide meeskonnatöö kaustale ja esitlus
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile]
+- [Vaata meeskonnatööd siit](https://github.com/Ivo-Murel/TOODE/tree/main/week-1)
 
