@@ -6,6 +6,7 @@
 
 
 ## Peamised õppetunnid
+- Õppisime DELETE + WHERE, UPDATE + SET, COALESCE, CASE WHEN, TRIM/INITCAP
 - MITTE KUNAGI ei käivita DELETE ilma WHERE klauslita. Ilma Where-ta kustutab SQL kõik read tabelist ja tagasiteed ei ole
 - Esimesena on vaja teha LIVE tabelist koopia ja katsetan koopia faili peal muudatusi, kontrollin muudatusi ja dokumenteerin tegevused ja alles siis, kui olen kindel, et testabel töötab, kordan sama asja LIVE tabeli peal ja viin andmebaasi muudatused sisse. 
 
