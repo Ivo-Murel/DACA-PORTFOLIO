@@ -1,8 +1,11 @@
 # Nädal 2: SQL andmete puhastamine
 
 ## Mida ma tegin
-- Uurisin Product tabelit SQL päringutega
-- Leidsin mitu toodet on sortimendis, mitmesse kategooriasse need jagunevad ja millise kategooria all on kõige rohkem kapitali kinni. 
+- ROLL	Müügiandmete puhastaja (Sales Data Cleaner)
+- Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused) + SQL skript
+-   xxxx
+-   xxxx
+-   xxxx
 
 
 ## Peamised õppetunnid
