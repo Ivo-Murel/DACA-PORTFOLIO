@@ -3,9 +3,14 @@
 ## Mida ma tegin
 - ROLL	Müügiandmete puhastaja (Sales Data Cleaner)
 - Puhastamisraport (duplikaadid leitud, NULL-id leitud, formaadivead, soovitused) + SQL skript
--   xxxx
--   xxxx
--   xxxx
+- Duplikaadid on loetud GROUP BY + HAVING abil: SQL- skript annab tulemuseks
+    - 4013 unikaalset duplikaatset arvet (invoice_id) - arved, mis esinevad süsteemis rohkem kui korra ja millel on vähemalt üks koopia. 
+    - 5116 duplikaatset rida (korduvad read)
+- Kuupäevadega ja hindadega probleeme ei ole, need on olemas ja formaadid on samad
+- 305 müügitehingut on miinusmärgiga - toodetel on müügihind ja müüdud kogus olemas, aga kogusumma on negatiivne samas väärtuses, tasuta tooted ei saa olla - need oleks arvel null hinnaga. 
+- E-poe müükidel ei ole customer_id küljes - kokku 1487 rida
+- Sales tabelist loodud koopia sales_test
+
 
 
 ## Peamised õppetunnid
@@ -18,8 +23,9 @@
 Individual
 - `week2_exploration.sql` -- minu SQL päringud
 - `week2_results_screenshot.png` -- tulemuste pilt
+- week2_sales_report.md
 Team
 - `week2_data_landscape.md' -- viide meeskonnatöö kaustale ja esitlus    ?????????
 
 ## Meeskonna töö
-- [Vaata meeskonnatööd siit](xxxxxxxxxxxxx)
+- [Vaata meeskonnatööd siit](https://docs.google.com/presentation/d/17zH0yna0C4xXgK4qMWkMrlxvIhGTtx_2h1xMmsGTgLI/edit?slide=id.h5149412c77256a12_1_46#slide=id.h5149412c77256a12_1_46)
