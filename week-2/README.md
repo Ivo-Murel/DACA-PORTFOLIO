@@ -21,11 +21,10 @@
 
 ## Failid
 Individual
-- `week2_exploration.sql` -- minu SQL päringud
+- `week2_sales_cleaning.sql` -- minu SQL päringud
 - `week2_results_screenshot.png` -- tulemuste pilt
-- week2_sales_report.md
-Team
-- `week2_data_landscape.md' -- viide meeskonnatöö kaustale ja esitlus    ?????????
+- 'week2_sales_report.md
 
 ## Meeskonna töö
-- [Vaata meeskonnatööd siit](https://docs.google.com/presentation/d/17zH0yna0C4xXgK4qMWkMrlxvIhGTtx_2h1xMmsGTgLI/edit?slide=id.h5149412c77256a12_1_46#slide=id.h5149412c77256a12_1_46)
+- [Vaata meeskonnatöö esitlust siit](https://docs.google.com/presentation/d/17zH0yna0C4xXgK4qMWkMrlxvIhGTtx_2h1xMmsGTgLI/edit?slide=id.h5149412c77256a12_1_46#slide=id.h5149412c77256a12_1_46)
+- [Vaata meeskonnatööd siit](https://github.com/Ivo-Murel/TOODE/tree/main)
