@@ -9,7 +9,7 @@
 - Kuupäevadega ja hindadega probleeme ei ole, need on olemas ja formaadid on samad
 - 305 müügitehingut on miinusmärgiga - toodetel on müügihind ja müüdud kogus olemas, aga kogusumma on negatiivne samas väärtuses, tasuta tooted ei saa olla - need oleks arvel null hinnaga. 
 - E-poe müükidel ei ole customer_id küljes - kokku 1487 rida
-- Sales tabelist loodud koopia sales_test
+- Sales tabelist loodud koopia sales_test ja kustutatud duplikaadid
 
 
 
