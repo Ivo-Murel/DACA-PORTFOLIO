@@ -25,35 +25,40 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. Olen müügi 
 * **Meeskonna ühine töö:** [TOODE repo - UrbanStyle Tootemeeskond](https://github.com/Ivo-Murel/TOODE) ✅
  
 ### Week 1: SQL Põhitõed
-- (tulemas...)
- 
+- SQL süntaksi alused: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT
+
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+- DELETE, UPDATE, COALESCE, turvakoopia loomine, CASE WHEN
 
-- ### Week 3: xxxxxxxxx
-- (tulemas...)
+### Week 3: SQL Advanced
+- INNER JOIN, LEFT JOIN, RIGHT JOIN, multi-table queries
 
- - ### Week 4: xxxxxxxxx
-- (tulemas...)
+### Week 4: SQL Advanced
+- GROUP BY, HAVING, agregaatfunktsioonid (COUNT, SUM, AVG), CTE, Window Functions tutvustus
 
-- - ### Week 5: xxxxxxxxx
-- (tulemas...)
+### Week 5: Visualization
+- Visualiseerimise põhimõtted, dashboard anatomy, data-ink ratio, chart type selection
 
- - ### Week 6: xxxxxxxxx
-- (tulemas...)
+### Week 6: Visualization
+- Data storytelling framework: Setup→Conflict→Resolution, executive summary, annotations
 
-- - ### Week 7: xxxxxxxxx
-- (tulemas...)
+### Week 7: Python Analysis
+- Python + Pandas basics, Supabase SDK, DataFrame operations.
+- RFM Customer Segmentation: Recency, Frequency, Monetary arvutamine, 6 segmenti (analüüsietapi dekompositsioon)
 
- - ### Week 8: xxxxxxxxx
-- (tulemas...)
+### Week 8: Python Analysis
+- Supabase Python client, REST API, .env turvalisus, GitHub Actions tutvustus.
+- Automated data pipeline: API fetch → Transform → Export + logging + GitHub Actions YAML (andmeallika dekompositsioon)
 
-- - ### Week 9: xxxxxxxxx
-- (tulemas...)
+### Week 9: Portfolio & Career
+- CV, LinkedIn optimeerimine, DA turu ülevaade (56+ rolli), tööandja perspektiiv
 
- - ### Week 10: xxxxxxxxx
-- (tulemas...)
+### Week 10: Portfolio & Career
+- GitHub portfoolio optimeerimine: Profile README, pinned repos, 5-min pitch struktuur
  
 ## Kontakt
  
 - **GitHub:** [github.com/Ivo-Murel](https://github.com/Ivo-Murel)
+
+
+
