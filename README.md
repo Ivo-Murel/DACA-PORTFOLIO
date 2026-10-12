@@ -7,6 +7,13 @@
 ## Kirjeldus
  
 See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. Olen müügi ja turunduse taustaga, liitusin DACA programmiga, sest IT maailm ja sellega seonduv on hobi korras juba aastaid huvi pakkunud ning tundsin, andmete analüüs  võiks olla midagi sellist, mis pakub huvi ja ehk on tulevikus sellest ka kasu tööalaselt. 
+
+## Oskused
+ 
+- **SQL:** PostgreSQL, Supabase
+- **Python:** pandas, plotly (tulemas...)
+- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Tööriistad:** Git, GitHub, VS Code
  
 ## Projektid
  
@@ -22,13 +29,30 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. Olen müügi 
  
 ### Week 2: SQL Andmete Puhastamine
 - (tulemas...)
- 
-## Oskused
- 
-- **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
-- **Tööriistad:** Git, GitHub, VS Code
+
+- ### Week 3: xxxxxxxxx
+- (tulemas...)
+
+ - ### Week 4: xxxxxxxxx
+- (tulemas...)
+
+- - ### Week 5: xxxxxxxxx
+- (tulemas...)
+
+ - ### Week 6: xxxxxxxxx
+- (tulemas...)
+
+- - ### Week 7: xxxxxxxxx
+- (tulemas...)
+
+ - ### Week 8: xxxxxxxxx
+- (tulemas...)
+
+- - ### Week 9: xxxxxxxxx
+- (tulemas...)
+
+ - ### Week 10: xxxxxxxxx
+- (tulemas...)
  
 ## Kontakt
  
