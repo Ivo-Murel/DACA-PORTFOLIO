@@ -7,9 +7,9 @@ Ivo Murel, Helen Starodubtseva, Kertu Läänemägi
 
 | Liige | Vastutus |
 | :--- | :--- |
-| Ivo Murel | `customers` – kliendiandmed |
-| Helen Starodubtseva | `products` ja `inventory` – tooted ja inventuur |
-| Kertu Läänemägi | `sales` – müügiandmed |
+| Ivo Murel | customers – kliendiandmed |
+| Helen Starodubtseva | products ja inventory – tooted ja inventuur |
+| Kertu Läänemägi | sales – müügiandmed |
 
 ## Töö eesmärk
 
