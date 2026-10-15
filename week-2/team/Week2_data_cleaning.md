@@ -21,7 +21,7 @@ Töötasin sales_test tabeliga, et algne sales tabel jääks muutmata.
 Individuaalse töö SQL-päringud, aruanne ja ekraanipildid asuvad kaustas individual.
 
 Meeskonnatöö
-Kuulusin meeskonda Toode koos Ivo Mureli ja Kertu Läänemäega.
+Kuulusin meeskonda Toode koos Helen Starodubtseva ja Kertu Läänemäega.
 
 Tööjaotus
 Ivo Murel: sales tabel
