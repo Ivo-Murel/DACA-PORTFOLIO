@@ -52,3 +52,22 @@ TOP 15 KLIENDID
 | 2221 | Riina Lill | 67 | 20972 |
 | 2154 | Annika Saar | 66 | 20727 |
 | 3722 | Ago Kull | 64 | 20125 |
+
+TOP 15 TOOTED MARGINALI JÄRGI
+| product_id | product_name | cost_price | retail_price | kokku_myydud | kogumarginaal |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 1031 | Õhuline sünteetiline sporditossud | 266.31 | 434.08 | 63 | 10570 |
+| 1108 | Trendikas goretex oxfordid | 223.83 | 371.05 | 65 | 9569 |
+| 1223 | Praktiline kangast kõrge kontsaga kingad | 192.81 | 319.98 | 68 | 8648 |
+| 1293 | Boheemlaslik linane pullover | 217.33 | 351.33 | 64 | 8576 |
+| 1198 | Õhuline sünteetiline kõrge kontsaga kingad | 186.77 | 291.72 | 79 | 8291 |
+| 1143 | Õhuline linane jakk | 182.53 | 307.83 | 63 | 7894 |
+| 1210 | Vintage tweed kampsun | 225.61 | 374.54 | 52 | 7744 |
+| 1160 | Moodne villane nahk sandaalid | 226.48 | 368.67 | 54 | 7678 |
+| 1049 | Boheemlaslik puuvillane tuulejope | 200.72 | 308.84 | 71 | 7677 |
+| 1006 | Praktiline džersii seelik | 208.86 | 319.42 | 69 | 7629 |
+| 1009 | Praktiline merino villane parka | 206.74 | 332.55 | 59 | 7423 |
+| 1060 | Luksuslik puuvillane linane särk | 153.00 | 253.26 | 73 | 7319 |
+| 1069 | Klassikaline seemisnahkne jooksutossud | 242.90 | 402.62 | 45 | 7187 |
+| 1303 | Mugav merino villane tuulejope | 197.42 | 312.41 | 62 | 7129 |
+| 1346 | Mugav merino villane cargo püksid | 157.35 | 258.91 | 70 | 7109 |
