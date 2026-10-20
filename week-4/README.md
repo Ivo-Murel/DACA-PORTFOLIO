@@ -4,7 +4,7 @@ Agregaatfunktsioonid: COUNT, SUM, AVG, MIN, MAX
 
 Mida ma tegin
 Grupitöö
-    ROLL Inventory Tabeli analüüs
+    ROLL Inventory Tabeli analüüs - Analüüsi tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasuta GROUP BY, HAVING ja window functions, et leida probleemsed kategooriad.
 - Inventory tabeli üleslaadimine
 - Keskmine ostukorvi suurus
 - Tartu poe tagastused olid topelt. 
@@ -19,8 +19,11 @@ Individuaalne töö
 3. Struktureeritud keerulisemad päringuid CTE-de ja window function'itega
 
 Peamised leiud:
+- Kõige suurem müük on Tallinnas ja seal on ka kõige rohkem tellimus 3601 tellimust, käive üle 1mil€, keskmine tellimus 279€
 - Perioodil märts 2025- november 2025 ei toimunud ühtegi müüki, mingi error tõenäoliselt. Esimene müük toimus 2023 jaanuar ja sellest perioodist alates müük toimus 33 kuul ja 9 kuul ei toiminud, ehk siis 2023-2024 on jätkuvalt ok ja probleem on samas 2025 a 9 kuu perioodis.
-- Kõige rohkem tellimusi Tallinnas 3601, käive üle 1mil€, kesk tellimus 279€
+- Käive on pidevas languses alates 2023-2024 tippudest. 
+- TOP klient on Tiina Pärn, kelle ostude kogukäive on 27K0€
+- Suurima käibega toode on "Õhuline sünteetiline sporditossud" 27 347€, sama toode on ka parima marginaliga 10,5K€
 
 ## Failid
 Individual
