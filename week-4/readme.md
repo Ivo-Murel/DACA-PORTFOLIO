@@ -20,3 +20,35 @@ Tulemused
 
 -- 5. Varude audit — Kus on erinevused?
 -- Tulemus: Kõige suurema läbimüügiga toode tükkide arvestuses on "Moodne seemisnahkne oxfordid" (83 tk, ostuhind 149.36 € ja müügihind 221.42 €). Tihedalt järgnevad "Minimalistlik villane pühapäevakleit" (81 tk) ja "Luksuslik softshell komplekt" (80 tk). Andmebaasis on kokku 362 toodet, mis annab hea ülevaate toodete liikumiskiirusest ja marginaalidest.
+
+Top 5 linnad ja trendid
+| koht | linn | tellimusi | kogukaive | keskmine_tellimus | osakaal_pct | viimase_kuu_kaive | varasemate_kuude_keskmine | kuu_muutus_eur |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Tallinn | 2062 | 571649.39 | 277.23 | 37.94 | 43855.03 | 34034.50 | 9820.53 |
+| 2 | Tartu | 1011 | 292500.31 | 289.32 | 19.41 | 19154.95 | 17595.27 | 1559.68 |
+| 3 | Pärnu | 755 | 226008.72 | 299.35 | 15.00 | 18590.48 | 13009.85 | 5580.63 |
+| 4 | Narva | 233 | 67458.67 | 289.52 | 4.48 | 3561.89 | 4822.15 | -1260.26 |
+| 5 | Viljandi | 215 | 60339.62 | 280.65 | 4.00 | 5124.26 | 3818.63 | 1305.63 |
+
+SUURIMAD KATEGOORIAD
+| kategooria | müüdud_kokku_tk | kogukäive | keskmine_hind | toodete_arv |
+| :--- | :---: | :---: | :---: | :---: |
+| jalanõusid | 3737 | 774035 | 213.26 | 71 |
+| meeste_riided | 4121 | 749799 | 188.61 | 81 |
+| naiste_riided | 3604 | 686464 | 195.55 | 68 |
+| aksessuaarid | 3231 | 393036 | 122.88 | 62 |
+| laste_riided | 3686 | 305844 | 84.70 | 68 |
+
+TOP 15 KLIENDID
+| customer_id | nimi | tellimuste_arv | kogukäive |
+| :--- | :--- | :---: | :---: |
+| 3618 | Tiina Pärn | 73 | 27668 |
+| 3350 | Priit Rand | 76 | 26286 |
+| 2997 | Kevin Org | 78 | 23467 |
+| 2889 | Laura Tammik | 74 | 23386 |
+| 3648 | Erkki Ilves | 72 | 22942 |
+| 3605 | Anu Kuusik | 77 | 21626 |
+| 4206 | Kersti Lill | 71 | 21137 |
+| 2221 | Riina Lill | 67 | 20972 |
+| 2154 | Annika Saar | 66 | 20727 |
+| 3722 | Ago Kull | 64 | 20125 |
