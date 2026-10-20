@@ -6,7 +6,7 @@ Mida ma tegin
 Grupitöö
     ROLL Inventory Tabeli analüüs - Analüüsi tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasuta GROUP BY, HAVING ja window functions, et leida probleemsed kategooriad.
 - Inventory tabeli üleslaadimine
-- Keskmine ostukorvi suurus
+- Keskmine ostukorvi suurus 288€
 - Tartu poe tagastused olid topelt. 
 - 245 inimest tõid 60% kogukäibest, keksmine ostukorv neil 89€ võrreldes tavapärase 47€. Klienditoe protseduurid ringi, et vipid saaks kiiremini teenindatud. 
 - Aksessuaarid müüsid füüsilises poes paremini, inimesed tahavad kotte ja prille käes hoida, naisteriided tegid online poes parima tulemuse. Aksessuaarireklaamid saatsid inimesed poodi ja kleitide reklaam suunas neid ostma veebipoest.
