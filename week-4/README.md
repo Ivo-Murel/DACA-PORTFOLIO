@@ -32,5 +32,5 @@ Individual
 - 'readme.md
 
 ## Meeskonna töö
-- [Vaata meeskonnatöö esitlust siit](xxxxxxxxxxxxxxxxxxx)
+- [Vaata meeskonnatöö esitlust siit](https://docs.google.com/presentation/d/1NEEeLFbxaILTYv0__Oxeff_V8zb6N4MpVi6k0TyTfrk/edit?slide=id.p#slide=id.p)
 - [Vaata meeskonna TOODE repot siit](https://github.com/Ivo-Murel/TOODE/tree/main)
