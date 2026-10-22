@@ -14,7 +14,7 @@ Neljandal nädalal keskendume SQL-i abil andmete grupeerimisele, agregeerimisele
 - [Vaata meeskonnatöö esitlust siit](https://docs.google.com/presentation/d/1NEEeLFbxaILTYv0__Oxeff_V8zb6N4MpVi6k0TyTfrk/edit?slide=id.p#slide=id.p)
 - [Vaata meeskonna TOODE repot siit](https://github.com/Ivo-Murel/TOODE/tree/main)
 
-Kasutame GROUP BY, HAVING, CTE-sid ja aknafunktsioone.
+Kasutame GROUP BY, HAVING, CTE-sid ja aknafunktsioone. 
 
 ## Tööjaotus
 
@@ -26,7 +26,8 @@ Kasutame GROUP BY, HAVING, CTE-sid ja aknafunktsioone.
 
 Rollid vahetuvad nädalate lõikes, et kõik meeskonnaliikmed saaksid harjutada erinevate andmevaldkondade analüüsimist.
 
-Minu ülesandeks oli analüüsida tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasutasin GROUP BY, HAVING ja window functions, et leida probleemsed kategooriad.
+Minu ülesandeks oli analüüsida tootekategooriaid, laoseisu ja müüdud vs laos suhteid. Kasutasin GROUP BY, HAVING ja window functions, et leida probleemsed kategooriad. 
+Kasutasin selleks products, sales ja inventory tabeleid.  
 
 ## Peamised leiud
 - Kõige kõrgema keskmise hinnaga müüakse jalanõusid 214€/ühik.
