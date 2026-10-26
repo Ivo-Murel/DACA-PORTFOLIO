@@ -23,7 +23,10 @@ Individuaalne töö:
 3. Struktureeritud keerulisemad päringuid CTE-de ja window function'itega
 4. Inventory tabeli üleslaadimine
 5. Müügid kuude lõikes, puuduvad müügid, Top kliendid, parimad tooted.
-6. Tartu kaupluste tagastused on läinud topelt. 
+6. Tartu kaupluste tagastused on läinud topelt.
+7. Paljudel toodetel on laojäägid tuhandetes, mis viitab andmebaasi veale või topelt sisestustele.
+8. Laojäägid ei vasta laoliikumistele.
+9. Tooted millel eco certified oli NULL väärtusega, asendasin selle Falsega
 
 Peamised leiud:
 - Kõige suurem müük on Tallinnas ja seal on ka kõige rohkem tellimus 3601 tellimust, käive üle 1 mil€, keskmine tellimus 279€
