@@ -19,6 +19,11 @@ Individuaalne töö:
 4. Lisasin slicerid, muutsin pealkirju ning lisasin ka väärtused tulpdiagrammi peale
 5. Laadisin .pbix faili githubi
 
+Peamised leiud
+- Ettevõte kogukäive on olnud 2,91M€
+- Müügid on languses, langus algas 2024 aastal.
+- Läbi aegade müüduimad top 5 toodet on sporditossud, goretex oxfordid, viskoosne jakk, seelik ja tuulejope.
+- Tallinnast tuleb 38% müüki ja Online moodustab 35% 
 
 
 ## Meeskonna töö
