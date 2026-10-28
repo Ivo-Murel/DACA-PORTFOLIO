@@ -27,5 +27,5 @@ Peamised leiud
 
 
 ## Meeskonna töö
-- [Vaata meeskonnatöö esitlust siit](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+- [Vaata meeskonnatöö esitlust siit](https://docs.google.com/presentation/d/1bg1lFpKq04LwAn1vqwGZc_S45lVt2TCMeZ8oVTS-EaU/edit?slide=id.p#slide=id.p)
 - [Vaata meeskonna TOODE repot siit](https://github.com/Ivo-Murel/TOODE/tree/main)
