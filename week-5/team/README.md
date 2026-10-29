@@ -1,15 +1,13 @@
-ALAÜLESANDE KAART  |  Nädal: 5  |  Meeskond: TOODE |  Roll: A |
+> **ALAÜLESANDE KAART** | Nädal: 5 | Meeskond: TOODE | Roll: A
 
-Grupitöö
-================================================================================
-ROLL: CEO Dashboard (Kristi — kõrgtaseme KPI-d)
---------------------------------------------------------------------------------
-ÜLESANNE : Kristi tahab näha ühe pilguga, kas UrbanStyle kasvab või sureb. 
-           Loo CEO dashboard kõrgtaseme müügitulu, klientide arvu ja 
-           kasvutrendiga.
+# Grupitöö esitlus
 
-SISEND   : sales, customers (Supabase või CSV)
-VÄLJUND  : 2 diagrammi + äritõlgendus 
+## ROLL: CEO Dashboard (Kristi — kõrgtaseme KPI-d)
+
+**ÜLESANNE:** Kristi tahab näha ühe pilguga, kas UrbanStyle kasvab või sureb. Loo CEO dashboard kõrgtaseme müügitulu, klientide arvu ja kasvutrendiga.
+
+* **SISEND:** `sales`, `customers` (Supabase või CSV)
+* **VÄLJUND:** 2 diagrammi + äritõlgendus
 ================================================================================
 
 ## Meeskonna töö
