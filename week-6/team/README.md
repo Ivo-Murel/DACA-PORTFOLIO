@@ -4,8 +4,9 @@
 
 
 **ÜLESANNE:** 
+
 Minul oli sellel nädalal roll C ja vaatasin Pärnu kaupluse müüke
-Loo Pärnu kaupluse interaktiivne dashboard koos andmelooga. Pärnu on väikseim kauplus ja tugeva hooajalisusega (suvekuurort). Sinu ülesanne on näidata hooajalist mustrit ja selle ärilist tähendust.
+Pidin looma Pärnu kaupluse interaktiivne dashboardi koos andmelooga. Pärnu on väikseim kauplus ja tugeva hooajalisusega (suvekuurort). Sinu ülesanne on näidata hooajalist mustrit ja selle ärilist tähendust.
 =============================
 
 ## Meeskonna töö
