@@ -11,8 +11,8 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot. Olen müügi 
 ## Oskused
  
 - **SQL:** PostgreSQL, Supabase
-- **Python:** pandas, plotly (tulemas...)
-- **Visualiseerimine:** Power BI / Streamlit (tulemas...)
+- **Python:** pandas
+- **Visualiseerimine:** Power BI 
 - **Tööriistad:** Git, GitHub, VS Code
  
 ## Projektid
