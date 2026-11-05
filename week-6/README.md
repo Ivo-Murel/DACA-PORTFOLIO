@@ -2,11 +2,17 @@ Nädal 6 MEESKOND: Toode | NÄDAL: 6 |
 
 Power BI - Visualiseerimise andmed - erinevate linnade lõikes, Tallinn, Tartu, Pärnu ja Online müügid. 
 
-Minu ülesandeks oli Pärnu kaupluste müükide analüüs. 
+[Grupitöö esitlus](https://docs.google.com/presentation/d/1PUgn8d0K3lLBJAOyjhV7pqao-_f7jHXARFT1brWRcvg/edit?slide=id.p#slide=id.p)
+
+Grupitöös oli minu ülesandeks Pärnu kaupluste müükide analüüs. 
 <img width="2183" height="1137" alt="image" src="https://github.com/user-attachments/assets/6293ec82-bf69-4a20-adef-c3e4c5a4e943" />
  
 ### TEHNILINE ÜLEVAADE
-Sai loodud PowerBi joon, tulp ja sektordiagrammid, annotatsioonid, viitejooned ja lisatud anmelugu. Tuvastatud hooajalisus ja tehtud ettepanekud edaspidiseks
+Sai loodud PowerBi joon, tulp ja sektordiagrammid, annotatsioonid, viitejooned ja lisatud anmelugu. Tuvastatud hooajalisus ja tehtud ettepanekud edaspidiseks. 
+- Kasutasin Google AI Studio abi leidmaks Power BI raportist kiiremini ülesse õigeid filtreid ja tabeliformaate
+- Geminit kasutasin samuti ülesande lahendamisel kui midagi jäi arusaamatuks
+- Kujundasin 4 erinevat diagrammi, kasutasin KPI, Slicer, annotatsioone, viitejooni ja jutustasin andmeloo.
+- Filtreerisin müügid Pärnu linna järgi ning kujunduses lähtusin etteantud juhistest.
 
 ---
 
@@ -32,3 +38,11 @@ Sai loodud PowerBi joon, tulp ja sektordiagrammid, annotatsioonid, viitejooned j
 * Turunduskampaania failis valed kampaaniate algus ja lõppkuupäevad
 * Turunduskampaaniate mõju väike, kampaanias olevate toodete müügikogused väikesed (1-3 tk)
 * Osadel toodetel öko sertifikaadid on puudu.
+
+### ISIKLIK TÖÖ
+* CEO dashboard
+* Top toodete müügitulu ja millised on top tooted
+* Müügitrendid
+* Müük linnade kaupa
+* Annotatsioonid ja viitejooned
+* DAX mõõdikud 
