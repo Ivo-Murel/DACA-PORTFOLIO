@@ -30,7 +30,15 @@ Käesolev ülevaade annab kokkuvõtte `UrbanStyle` tegevjuhi (CEO) töölaua vis
 **Mobiilivaade:** Kohandada sama töölaud Power BI mobiilivaate (*Mobile Layout*) jaoks, et juhtkond saaks andmeid jälgida ka nutiseadmetes.
 
 ---
+## Peamised leiud
 
+* **Kogukäive ja kasumlikkus:** Ettevõtte kogukäive on tugeval tasemel (`2.91M €`), kuid müügimahtude kasvust hoolimata on oluline teostada põhjalik kulude audit, et tuvastada võimalikud ebatõhusused ja ärikahjumid.
+* **Hooajalisus ja tipud:** Müügitrendid näitavad selget hooajalisust – oktoober 2024 saavutas läbi aegade parima tulemuse (`171K €`), kusjuures suvekuudel ja tipperioodidel on müügile suurim mõju.
+* **Top tooted ja "Hero" toode:** Enim müüdud tooteks on *Õuhune sünteetiline sporditussud*, mis moodustab märkimisväärse osa kogukäibest (`28%`).
+* **Müügikanalite jaotus:** Müügitulu jaguneb mitme olulise kanali vahel, kusjuures Tallinna füüsiline pood ja e-poe müük (`Online`) moodustavad kumbki tugeva osakaalu kogu käibest (`37.54%` ja `34.61%`).
+* **Andmete kvaliteet:** Varastes andmetes esineb puudujääke ja ebakõlasid (näiteks puuduvad täielikud mitme aasta ajaloolised andmed ja osadel kirjetel lojaalsusandmed), mis nõuavad jätkuvat andmete puhastamist.
+
+---
 ## Soovitused edasiseks arenduseks
 
 1. **Andmete dünaamilisus:** Tagada, et viitejooned (*Reference lines*) ja eesmärgid muutuksid automaatselt vastavalt valitud müügikoha filtrile.
