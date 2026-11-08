@@ -1,4 +1,4 @@
-# 📊 Nädal 7 Kokkuvõte: Python Pandas & Interaktiivne Kliendisegmenteerimine
+# 📊 Nädal 7 Kokkuvõte: Python Pandas
 
 ## 🎯 Ülesanne ja Eesmärk
 Üleminek SQL-põhisest andmete pärimisest Pythoni andmetöötluskeskkonda. Eesmärgiks oli laadida UrbanStyle'i müügiandmed pandas DataFrame'i, läbi viia kliendikäitumise analüüs, ehitada RFM (*Recency, Frequency, Monetary*) mudel ning visualiseerida tulemused interaktiivsete Plotly Express graafikutega, et pakkuda juhtkonnale strateegilisi sisendikampaaniaid.
