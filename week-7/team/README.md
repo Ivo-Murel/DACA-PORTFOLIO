@@ -30,13 +30,25 @@ Sai loodud ja läbi viidud andmete laadimise ja puhastus Pandas teegiga:
 * **Arvete deduplitseerimine:** Pärast `invoice_id` pikkuspõhist puhastust eemaldati duplikaadid (toores sales tabel sisaldas 5 116 duplikaatarvet) ning alles jäi 10 118 tehingut.
 * **Lõplik puhastatud andmestik (Roll B):** Pärast puuduvate kliendi ID-de ja anomaalsete hindade eemaldamist jäi RFM-analüüsiks alles täpselt 8 950 puhast tehingurida.
 * **Kliendibaas:** Puhastatud andmestik sisaldab 2 540 unikaalset ostnud klienti ajavahemikus 01.01.2023 kuni 06.09.2026.
-* 
+* **VIP Champions (411 klienti):** Meie kõige väärtuslikum tuumik (kõrge ostusagedus, hiljutisus ja kogukulutus). Nad annavad ebaproportsionaalselt suure osa kogukäibest ning moodustavad stabiilse baasi püsiva müügitulu hoidmisel.
+* **At Risk High Value (281 klienti):** Kliendid, kellel on ajalooliselt kõrge ostusagedus ja *Monetary*-väärtus, kuid kelle viimasest ostust on möödunud kriitiline aeg (*Recency* skoor madal). Nad vajavad kohest sekkumist, et ennetada nende liikumist lõplikult passiivsesse faasi.
+* **Kasvu- ja potentsiaalsed segmendid (604 klienti):** Sisaldab rühmi *Loyal Active*, *New / Promising* ja *Potential*. Nende ostumuster näitab valmisolekut liikuda kõrgemasse väärtustasemesse sobivate tootesoovituste ja stiimulite toel.
 
 ---
 
-### SOOVITUS:
+### SOOVITUSED:
 * **Andmekvaliteet sisendsüsteemis:** Tagada e-poe ja kassasüsteemi liidestuses, et tehinguga pandaks alati kaasa kehtiv `customer_id`, vältimiseks tehingute väljajäämist RFM-analüüsist.
 * **Hinnaanomaaliad:** Seadistada süsteemi kontrollid, mis ei luba sisestada tehingule nulli või negatiivset summat (`total_price <= 0`).
+
+* #### 1. VIP-klubi ja varajane ligipääs kollektsioonidele (VIP Champions)
+* **Tegevus:** Loo eksklusiivne, kutsetega *UrbanStyle VIP Club*.
+* **Fookus:** Varajane eel-ligipääs uutele tootekollektsioonidele ning tasuta ekspress-tarned.
+* **Põhjendus:** Väldime brändi ja toodete väärtust vähendavaid mass-allahindlusi ning hoiame marginaali, kuna see segment ostab toote väärtuse, mitte allahindlusprotsendi tõttu.
+
+#### 2. Sihitud *Win-back* tootekampaania (At Risk High Value – 281 klienti)
+* **Tegevus:** Käivita automatiseeritud korduskampaania, mis põhineb kliendi varasemal ostuajalool.
+* **Fookus:** Personaalsed tootesoovitused (ristmüük eelmise ostukategooria põhjal) ja ajaliselt piiratud stiimul.
+* **Põhjendus:** Kõrge väärtusega klientide taasaktiviseerimine enne nende lõplikku passiivseks muutumist.
 
 ---
 
