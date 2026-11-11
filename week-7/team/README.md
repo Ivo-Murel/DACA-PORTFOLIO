@@ -4,6 +4,9 @@
 Meeskond viib läbi RFM (Recency, Frequency, Monetary) analüüsi UrbanStyle.ltd kliendiandmetel Python pandas abil ja esitab Markole konkreetsed soovitused.
 Väljund: Uks terviklik Jupyter Notebook, kus iga sektsioon on koostatud uhe meeskonnaliikme poolt. Notebook jookseb algusest lõpuni ilma veata.
 
+- [Vaata meeskonnatöö esitlust siit](https://docs.google.com/presentation/d/1vbaf-APMytQiKg2gAz_WpOAedij0oYG_KPxh-iSFeSM/edit?slide=id.h1f0825d16c0641e4_0_13#slide=id.h1f0825d16c0641e4_0_13)
+- [Vaata meeskonna TOODE repot siit](https://github.com/Ivo-Murel/TOODE/tree/main)
+
 ---
 
 Grupitöös oli minu ülesandeks müügi- ja kliendiandmete ühendamine (Roll A) ning täielik andmete puhastustorustiku teostamine (Roll B).
