@@ -73,7 +73,33 @@ Grupitöö käigus soovime välja selgitada:
 - Võimalused kliendisuhete ja turundustegevuste parandamiseks.
 
 Tulemuste põhjal koostame soovitused UrbanStyle'i tootejuhile Marko Saarele.
+- VIP Champions -411 klienti: Meie kõige väärtuslikum tuumik (kõrge ostusagedus, hiljutisus ja kogukulutus). Nad annavad ebaproportsionaalselt suure osa kogukäibest ning moodustavad stabiilse baasi püsiva müügitulu hoidmisel.
+- At Risk High Value - 281 klienti: Kliendid, kellel on ajalooliselt kõrge ostusagedus ja Monetary-väärtus, kuid kelle viimasest ostust on möödunud kriitiline aeg (Recency skoor madal). Nad vajavad kohest sekkumist, et ennetada nende liikumist lõplikult passiivsesse faasi.
+- Kasvu- ja potentsiaalsed segmendid - 604 klienti: Sisaldab rühmi Loyal Active, New / Promising ja Potential. Nende ostumuster näitab valmisolekut liikuda kõrgemasse väärtustasemesse sobivate tootesoovituste ja stiimulite toel.
 
+## Minu isikliku töö tulemused. 
+
+- **Andmete laadimine ja uurimine:** Laadisin müügi- ja kliendiandmed (CSV) pandas'esse ning uurisin struktuuri ja tüüpe (`head()`, `info()`, `describe()`, `shape`).
+- **Töötlemine ja filtreerimine:**
+ - **RFM Mudeli ehitamine:** 
+  1. Arvutasin viimase ostu aja (*Recency*), ostusageduse (*Frequency*) ja kogukulutuse (*Monetary*).
+  2. Jagasin andmed skoori-gruppidesse `pd.qcut()` abil (kasutades loendurites `.rank(method='first')`).
+  3. Määrasin reeglitega kliendisegmendid (*VIP Champions*, *Loyal Customers*, *Potential Loyalists*, *At Risk*).
+- **Interaktiivne visualiseerimine:** Lõin Plotly Expressiga dünaamilisi graafikuid (`px.bar`, `px.line`, `px.scatter`, `px.pie`) segmentide jaotuse ja kuutrendide kuvamiseks.
+
+---
+ - Kasutasin Gemini AI abi koodide tõlgendamisel, puhastamisel ning tulemuste selgitamisel
+ - Supabase, kontroll ja võrdlus Pythoni tulemustega. 
+
+
+## Peamised Leiud (UrbanStyle)
+
+- **Tallinn domineerib müügimahult:** Enamik tellimusi (5 704 rida, ~1,63M €) pärineb Tallinna kauplusest, samal ajal kui Tartu näitab kõrgeimat keskmist ostukorvi (~289 €).
+- **Käibe jaotus toodetena:** Suurima käibemahu annavad jalanõude ja meeste riiete kategooriad.
+- **RFM Kliendisegmendid:**
+  - **VIP Champions (466 klient):** Genereerivad valdava osa (kuni 60–70%) ettevõtte kogutulust.
+  - **At Risk segment:** Vajab kohest tagasivõitmise kampaaniat (personaalsed soodustused), et vältida klientide lahkumist enne nende lõplikku kaotamist.
+  - Osad koodid vajasid muutmist, sest juhendis oli puudusi. 
 
 
 
