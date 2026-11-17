@@ -23,7 +23,7 @@ Pythoni automatiseerimine. Minu selle nädala eesmärgiks olid rollid **A** ja *
 * Kirjutada transformeerimisfunktsioonid: puhastada andmed, arvutada nädalased koondnäitajad ja KPI-d ning liita andmestikud.
 
 **Sisend:** Supabase Python client (`supabase-py`), `.env` fail API tunnustega ning DataFrame'id (müügi-, kliendi-, tooteandmed).  
-**Väljund:** `data_fetcher.py` (3 funktsiooni, mis tagastavad DataFrame'e) ja `transform.py` (4 funktsiooni andmete töötlemiseks).
+**Väljund:** `data_fetcher.py` (3 funktsiooni, mis tagastavad DataFrame'e) ja `transform.py` (4 funktsiooni andmete töötlemiseks). Loodud ja testitud: Supabase API-st laetud andmed on edukalt pagineeritud, puhastatud (8,950 rida) ning seadistatud tiimi ühise pipeline'i integreerimiseks.
 
 ---
 
