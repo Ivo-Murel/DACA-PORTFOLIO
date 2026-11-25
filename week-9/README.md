@@ -33,6 +33,8 @@
 # Grupitöö
 ## Lühikokkuvõte: Kandidaadi hindamine (Personalijuhi vaade)
 
+[Vaata grupitööd siit](https://docs.google.com/document/d/1JXx-YHJBB_C_Z3lAYbGtd14lTn-8qxuh/edit)
+
 * **Eesmärk:** Hinnata kandidaadi pehmeid oskusi ja sobivust UrbanStyle'i tiimi (EE/FI/DE kaugtöökeskkond).
 * **Rohelised lipud (tugevused):**
   * Seob numbrid selgelt äriotsustega.
